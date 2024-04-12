@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Đây là file mới
+=======
+Đây là file mới tạo .
+>>>>>>> newUpstream/main

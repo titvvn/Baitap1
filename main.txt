@@ -1,2 +1,7 @@
 Hello
 World
+<<<<<<< HEAD
+=======
+br
+abc
+>>>>>>> newUpstream/main
